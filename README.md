@@ -10,3 +10,4 @@ python manage.py runserver
 
 Luego ingrese a [http://localhost:8000/blog](http://localhost:8000/blog)
 
+Leonel Bosch Y Lautaro Gonzalez
